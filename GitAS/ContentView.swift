@@ -8,7 +8,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("fun times man")
             Image(systemName: "figure.socialdance")
-
+            Text("My number is 557")
         }
         .padding()
     }
